@@ -1,0 +1,35 @@
+[
+  {
+    "timestamp": "2025-11-03T13:57:17.438771Z",
+    "type": "UNHEALTHY",
+    "details": {
+      "timestamp": "2025-11-03T13:57:17.438771Z",
+      "url": "https://api.github.com",
+      "status": 200,
+      "latency": 3.239,
+      "healthy": false
+    }
+  },
+  {
+    "timestamp": "2025-11-03T13:56:15.044337Z",
+    "type": "UNHEALTHY",
+    "details": {
+      "timestamp": "2025-11-03T13:56:15.044337Z",
+      "url": "https://api.github.com",
+      "status": 200,
+      "latency": 1.641,
+      "healthy": false
+    }
+  },
+  {
+    "timestamp": "2025-11-03T13:52:11.366341Z",
+    "type": "UNHEALTHY",
+    "details": {
+      "timestamp": "2025-11-03T13:52:11.366341Z",
+      "url": "https://api.github.com",
+      "status": 200,
+      "latency": 3.767,
+      "healthy": false
+    }
+  }
+]
