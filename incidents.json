@@ -1,5 +1,331 @@
 [
   {
+    "timestamp": "2025-11-03T14:24:09.064667Z",
+    "type": "UNHEALTHY",
+    "details": {
+      "timestamp": "2025-11-03T14:24:09.064667Z",
+      "url": "https://api.github.com",
+      "status": 200,
+      "latency": 1.679,
+      "healthy": false
+    }
+  },
+  {
+    "timestamp": "2025-11-03T14:23:06.284975Z",
+    "type": "UNHEALTHY",
+    "details": {
+      "timestamp": "2025-11-03T14:23:06.284975Z",
+      "url": "https://api.github.com",
+      "status": 200,
+      "latency": 1.954,
+      "healthy": false
+    }
+  },
+  {
+    "timestamp": "2025-11-03T14:22:32.714377Z",
+    "type": "UNHEALTHY",
+    "details": {
+      "timestamp": "2025-11-03T14:22:32.714377Z",
+      "url": "https://api.github.com",
+      "status": 200,
+      "latency": 3.532,
+      "healthy": false
+    }
+  },
+  {
+    "timestamp": "2025-11-03T14:21:59.376911Z",
+    "type": "UNHEALTHY",
+    "details": {
+      "timestamp": "2025-11-03T14:21:59.376911Z",
+      "url": "https://api.github.com",
+      "status": 200,
+      "latency": 3.303,
+      "healthy": false
+    }
+  },
+  {
+    "timestamp": "2025-11-03T14:20:56.395685Z",
+    "type": "UNHEALTHY",
+    "details": {
+      "timestamp": "2025-11-03T14:20:56.395685Z",
+      "url": "https://api.github.com",
+      "status": 200,
+      "latency": 2.186,
+      "healthy": false
+    }
+  },
+  {
+    "timestamp": "2025-11-03T14:20:24.470400Z",
+    "type": "UNHEALTHY",
+    "details": {
+      "timestamp": "2025-11-03T14:20:24.470400Z",
+      "url": "https://api.github.com",
+      "status": 200,
+      "latency": 1.885,
+      "healthy": false
+    }
+  },
+  {
+    "timestamp": "2025-11-03T14:19:22.103290Z",
+    "type": "UNHEALTHY",
+    "details": {
+      "timestamp": "2025-11-03T14:19:22.103290Z",
+      "url": "https://api.github.com",
+      "status": 200,
+      "latency": 1.667,
+      "healthy": false
+    }
+  },
+  {
+    "timestamp": "2025-11-03T14:18:17.865041Z",
+    "type": "UNHEALTHY",
+    "details": {
+      "timestamp": "2025-11-03T14:18:17.865041Z",
+      "url": "https://api.github.com",
+      "status": 200,
+      "latency": 3.557,
+      "healthy": false
+    }
+  },
+  {
+    "timestamp": "2025-11-03T14:17:40.599449Z",
+    "type": "UNHEALTHY",
+    "details": {
+      "timestamp": "2025-11-03T14:17:40.599449Z",
+      "url": "https://api.github.com",
+      "status": 200,
+      "latency": 7.232,
+      "healthy": false
+    }
+  },
+  {
+    "timestamp": "2025-11-03T14:15:05.620034Z",
+    "type": "UNHEALTHY",
+    "details": {
+      "timestamp": "2025-11-03T14:15:05.620034Z",
+      "url": "https://api.github.com",
+      "status": 200,
+      "latency": 2.043,
+      "healthy": false
+    }
+  },
+  {
+    "timestamp": "2025-11-03T14:14:02.402388Z",
+    "type": "UNHEALTHY",
+    "details": {
+      "timestamp": "2025-11-03T14:14:02.402388Z",
+      "url": "https://api.github.com",
+      "status": 200,
+      "latency": 2.324,
+      "healthy": false
+    }
+  },
+  {
+    "timestamp": "2025-11-03T14:13:22.143808Z",
+    "type": "ERROR",
+    "details": {
+      "error": "HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x0000024A4607A5D0>: Failed to resolve 'api.github.com' ([Errno 11001] getaddrinfo failed)\"))"
+    }
+  },
+  {
+    "timestamp": "2025-11-03T14:12:48.845115Z",
+    "type": "UNHEALTHY",
+    "details": {
+      "timestamp": "2025-11-03T14:12:48.845115Z",
+      "url": "https://api.github.com",
+      "status": 200,
+      "latency": 3.267,
+      "healthy": false
+    }
+  },
+  {
+    "timestamp": "2025-11-03T14:12:14.370652Z",
+    "type": "UNHEALTHY",
+    "details": {
+      "timestamp": "2025-11-03T14:12:14.370652Z",
+      "url": "https://api.github.com",
+      "status": 200,
+      "latency": 4.442,
+      "healthy": false
+    }
+  },
+  {
+    "timestamp": "2025-11-03T14:11:42.048302Z",
+    "type": "UNHEALTHY",
+    "details": {
+      "timestamp": "2025-11-03T14:11:42.048302Z",
+      "url": "https://api.github.com",
+      "status": 200,
+      "latency": 2.293,
+      "healthy": false
+    }
+  },
+  {
+    "timestamp": "2025-11-03T14:10:37.847036Z",
+    "type": "UNHEALTHY",
+    "details": {
+      "timestamp": "2025-11-03T14:10:37.847036Z",
+      "url": "https://api.github.com",
+      "status": 200,
+      "latency": 3.337,
+      "healthy": false
+    }
+  },
+  {
+    "timestamp": "2025-11-03T14:10:05.811209Z",
+    "type": "UNHEALTHY",
+    "details": {
+      "timestamp": "2025-11-03T14:10:05.811209Z",
+      "url": "https://api.github.com",
+      "status": 200,
+      "latency": 2.002,
+      "healthy": false
+    }
+  },
+  {
+    "timestamp": "2025-11-03T14:09:31.790852Z",
+    "type": "UNHEALTHY",
+    "details": {
+      "timestamp": "2025-11-03T14:09:31.790852Z",
+      "url": "https://api.github.com",
+      "status": 200,
+      "latency": 3.989,
+      "healthy": false
+    }
+  },
+  {
+    "timestamp": "2025-11-03T14:08:29.148128Z",
+    "type": "UNHEALTHY",
+    "details": {
+      "timestamp": "2025-11-03T14:08:29.148128Z",
+      "url": "https://api.github.com",
+      "status": 200,
+      "latency": 1.969,
+      "healthy": false
+    }
+  },
+  {
+    "timestamp": "2025-11-03T14:07:56.804642Z",
+    "type": "UNHEALTHY",
+    "details": {
+      "timestamp": "2025-11-03T14:07:56.804642Z",
+      "url": "https://api.github.com",
+      "status": 200,
+      "latency": 2.311,
+      "healthy": false
+    }
+  },
+  {
+    "timestamp": "2025-11-03T14:06:54.364462Z",
+    "type": "UNHEALTHY",
+    "details": {
+      "timestamp": "2025-11-03T14:06:54.364462Z",
+      "url": "https://api.github.com",
+      "status": 200,
+      "latency": 1.693,
+      "healthy": false
+    }
+  },
+  {
+    "timestamp": "2025-11-03T14:04:48.870642Z",
+    "type": "UNHEALTHY",
+    "details": {
+      "timestamp": "2025-11-03T14:04:48.870642Z",
+      "url": "https://api.github.com",
+      "status": 200,
+      "latency": 2.583,
+      "healthy": false
+    }
+  },
+  {
+    "timestamp": "2025-11-03T14:04:16.853555Z",
+    "type": "UNHEALTHY",
+    "details": {
+      "timestamp": "2025-11-03T14:04:16.853555Z",
+      "url": "https://api.github.com",
+      "status": 200,
+      "latency": 1.978,
+      "healthy": false
+    }
+  },
+  {
+    "timestamp": "2025-11-03T14:03:45.003565Z",
+    "type": "UNHEALTHY",
+    "details": {
+      "timestamp": "2025-11-03T14:03:45.003565Z",
+      "url": "https://api.github.com",
+      "status": 200,
+      "latency": 1.814,
+      "healthy": false
+    }
+  },
+  {
+    "timestamp": "2025-11-03T14:02:06.382713Z",
+    "type": "UNHEALTHY",
+    "details": {
+      "timestamp": "2025-11-03T14:02:06.382713Z",
+      "url": "https://api.github.com",
+      "status": 200,
+      "latency": 6.974,
+      "healthy": false
+    }
+  },
+  {
+    "timestamp": "2025-11-03T14:01:35.350741Z",
+    "type": "UNHEALTHY",
+    "details": {
+      "timestamp": "2025-11-03T14:01:35.350741Z",
+      "url": "https://api.github.com",
+      "status": 200,
+      "latency": 1.001,
+      "healthy": false
+    }
+  },
+  {
+    "timestamp": "2025-11-03T14:01:02.935611Z",
+    "type": "UNHEALTHY",
+    "details": {
+      "timestamp": "2025-11-03T14:01:02.935611Z",
+      "url": "https://api.github.com",
+      "status": 200,
+      "latency": 2.384,
+      "healthy": false
+    }
+  },
+  {
+    "timestamp": "2025-11-03T14:00:30.937527Z",
+    "type": "UNHEALTHY",
+    "details": {
+      "timestamp": "2025-11-03T14:00:30.937527Z",
+      "url": "https://api.github.com",
+      "status": 200,
+      "latency": 1.969,
+      "healthy": false
+    }
+  },
+  {
+    "timestamp": "2025-11-03T13:59:54.759547Z",
+    "type": "UNHEALTHY",
+    "details": {
+      "timestamp": "2025-11-03T13:59:54.759547Z",
+      "url": "https://api.github.com",
+      "status": 200,
+      "latency": 6.151,
+      "healthy": false
+    }
+  },
+  {
+    "timestamp": "2025-11-03T13:59:22.781638Z",
+    "type": "UNHEALTHY",
+    "details": {
+      "timestamp": "2025-11-03T13:59:22.781638Z",
+      "url": "https://api.github.com",
+      "status": 200,
+      "latency": 1.961,
+      "healthy": false
+    }
+  },
+  {
     "timestamp": "2025-11-03T13:57:17.438771Z",
     "type": "UNHEALTHY",
     "details": {
